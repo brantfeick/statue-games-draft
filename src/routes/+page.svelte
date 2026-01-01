@@ -62,7 +62,7 @@
 
       <div>
         <h1 class="text-balance text-4xl font-semibold tracking-tight text-slate-50 sm:text-5xl">
-          Tiny internet games, <span class="text-emerald-300">zero friction</span>.
+          Tiny internet games, <span class="text-emerald-300">tons of fun</span>.
         </h1>
         <p class="mt-3 max-w-xl text-sm text-slate-300 sm:text-base">
           A compact hub for simple, nostalgic web games. No accounts, no clutter — just click a
