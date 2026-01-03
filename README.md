@@ -8,7 +8,7 @@ This project started as an experiment to see whether Statue could handle a multi
 
 ## Live Demo
 
-You can play the games and explore the hub at https://statue-games.pages.dev
+You can play the games and explore the hub at [https://statue-games.pages.dev](https://statue-games-draft.pages.dev/)
 
 ## Technical Approach
 
