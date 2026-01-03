@@ -4,7 +4,7 @@ A proof of concept demonstrating how Statue can be used to build a lightweight g
 
 ## What This Is
 
-This project started as an experiment to see whether Statue could handle a multi-page gaming site with minimal overhead. The result is a compact arcade hub that features simple, browser-based games like Tic-Tac-Toe, Brickbreaker, Crazy Eights, and Hot Dog Race. Each game lives on its own dedicated page, and the whole experience runs entirely in the browser with no accounts, no tracking, and no unnecessary complexity.
+This project started as an experiment to see whether Statue could handle a multi-page gaming site with minimal overhead. The result is a compact arcade hub that features simple, browser-based games like Tic-Tac-Toe, Brickbreaker, and Hot Dog Race. Each game lives on its own dedicated page, and the whole experience runs entirely in the browser with no accounts, no tracking, and no unnecessary complexity.
 
 ## Live Demo
 
